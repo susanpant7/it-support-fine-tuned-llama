@@ -105,3 +105,7 @@ python3 test_routing.py --model hf.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF:
 - Low accuracy for one employee → look at the `Mistakes` list; add 20–40 rows for the confused topic to that employee's file and retrain.
 - Model answers chit-chat with a routing line → that is by design (the system prompt is fixed to routing). Use a different Ollama model for general chat.
 - Want JSON output instead → change the `output` field format in the JSON files to `{"team": "...", "employee": "...", "steps": "..."}` and retrain; the notebook and Modelfile do not need to change (update the regexes in `test_routing.py`).
+
+
+
+THE .gguf FILE IS IN THIS LOCATION: https://drive.google.com/drive/u/0/folders/1cuACqwRpezE6h-jxoNs5iOpm8o_mTUPS
