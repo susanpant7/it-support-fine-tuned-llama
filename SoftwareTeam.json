@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The PostgreSQL database in production is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the PostgreSQL service status and logs in production, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "SharePoint site shows an error when uploading files larger than 100 MB.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the site upload limits and use the sync client or OneDrive for large uploads."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Software install request: Power BI Desktop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Power BI Desktop, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Angular dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Angular project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes pods for the email service are stuck in CrashLoopBackOff.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the email service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: Xcode shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Xcode, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: PostgreSQL in production is refusing connections.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the PostgreSQL service status and logs in production, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? PostgreSQL database server refuses connections on port 5432.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the PostgreSQL service status, the listen addresses, and the pg_hba.conf rules."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Visual Studio 2022 will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Visual Studio 2022, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Slack workspace is blocking installation of the approved polling app.",
+    "output": "Team: Software | Assigned to Gita Kumari: Approve the app in the Slack admin app management settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: gradle build fails with a dependency resolution error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for gradle build, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Flask dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Flask project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Software install request: SAP GUI.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for SAP GUI, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Please install Zoom Rooms controller software on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Zoom Rooms controller software, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git pre-commit hook fails the code formatting check.",
+    "output": "Team: Software | Assigned to Sita Kumari: Run the formatter locally, fix the flagged files, and re-commit."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Webpack bundle analyzer shows duplicate React library instances in the production build.",
+    "output": "Team: Software | Assigned to Sita Kumari: Deduplicate the React dependency with resolve aliases and align versions."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Tableau data extract refresh job fails with a database connection timeout.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the data source connection settings and increase the timeout."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Vite frontend bundler fails to resolve import path aliases.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the alias configuration in vite.config and tsconfig paths."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft Teams keeps showing 'not responding' when I open it.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Microsoft Teams, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "checkout API is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the checkout API pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Adobe Illustrator crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Adobe Illustrator, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Docker build context includes unnecessary large files slowing down build times.",
+    "output": "Team: Software | Assigned to Sita Kumari: Add a .dockerignore file and restructure the build context."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? SAP enterprise portal login page times out after entering single sign-on credentials.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the SAP portal server status and the SSO integration logs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Cron job that generates the nightly reports did not run on the application server.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the cron service and job logs on the server and re-run the job."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: The Django dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Django project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Go test run fails with data race detection warnings.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the shared state in the flagged tests and add proper synchronization."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "AWS CLI command execution fails with an expired token or invalid profile error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Refresh the AWS SSO or STS credentials and verify the profile configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Please assign a Adobe Acrobat Pro license to the legal department.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Adobe Acrobat Pro license to the legal department in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? RabbitMQ queue is growing rapidly and consumers are not acknowledging messages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the consumer health and prefetch settings and the acknowledgement logic."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "VS Code will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update VS Code, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - OneDrive sync client shows a red X and files are not syncing.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the sync errors, unlink and relink the account, and verify storage quota."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The mobile API gateway is returning 5xx errors in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the mobile API gateway pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Flutter dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Flutter project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Terraform apply for the RDS parameter group fails.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the RDS parameter group, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "WSL2 Ubuntu distribution will not start on my development laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart the WSL service, check the Windows features, and update the WSL kernel."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Storybook fails to load imported CSS modules.",
+    "output": "Team: Software | Assigned to Sita Kumari: Add the CSS modules loader to the Storybook webpack configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Insomnia REST client cannot send requests to the local development server.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the local server port, proxy settings in Insomnia, and the firewall prompt on the laptop."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the recommendation engine deployment in Kubernetes is not becoming ready.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the recommendation engine, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "gradle build hangs for a long time and then times out.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for gradle build, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Azure DevOps job for the release stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Azure DevOps logs for the release stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Running Playwright on my machine produces flaky results.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Playwright configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I get a compile error running the Rails app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Rails project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Redis server is down in staging.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Redis service status and logs in staging, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? OneNote freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair OneNote, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: composer install throws a permission error on my machine.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for composer install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Node.js package installation fails with an npm peer dependency conflict error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the conflicting peer versions, align the dependency versions, or use the legacy peer deps flag."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Android Studio emulator fails to boot with a hardware acceleration error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Enable virtualization in the BIOS, install the emulator accelerator, and update the emulator."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "License request: Salesforce for the new sales rep.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Salesforce license to the new sales rep in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Grafana is showing no data for the queue depth panel.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Grafana alert (no data for the queue depth panel), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Docker container health check keeps failing and triggering container restarts.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the health check command and the application startup time."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Mocha tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Mocha configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Gradle build daemon crashes with an out-of-memory error on the large multi-module project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Increase the Gradle JVM heap in gradle.properties and enable the build cache."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "High error rate alert on the checkout API.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the checkout API pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? customer portal backend is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the customer portal backend pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft Teams crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Microsoft Teams, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Prometheus is showing target down for the cache exporter.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Prometheus alert (target down for the cache exporter), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "IntelliJ IDEA shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update IntelliJ IDEA, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Local build of the Vue project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Vue project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Angular CLI build throws strict mode template type-checking errors.",
+    "output": "Team: Software | Assigned to Sita Kumari: Fix the template type errors or adjust the strictTemplates setting."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PDF files open as read-only from SharePoint even though I have edit rights.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the PDF file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? SharePoint is not syncing on my computer.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the SharePoint sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PNPM throws a symlink creation permission error on the Windows workstation.",
+    "output": "Team: Software | Assigned to Sita Kumari: Enable developer mode or run with elevated permissions, and check the node_modules path."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Swagger UI documentation page fails to load API definitions from the backend gateway.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the OpenAPI endpoint on the gateway and the CORS settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Python virtual environment package imports fail with ModuleNotFoundError.",
+    "output": "Team: Software | Assigned to Sita Kumari: Verify the correct interpreter is selected and reinstall the dependencies in the venv."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: SvelteKit build throws a prerendering error on dynamic route parameters.",
+    "output": "Team: Software | Assigned to Sita Kumari: Configure the entries for the dynamic routes or disable prerendering for them."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git credential manager keeps asking for my password on every push to GitHub.",
+    "output": "Team: Software | Assigned to Sita Kumari: Reconfigure the credential helper and store a personal access token."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "License request: Tableau Creator for the data team.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Tableau Creator license to the data team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "API response times doubled after last night's deployment.",
+    "output": "Team: Software | Assigned to Rita Kumari: Compare the APM traces before and after the deploy and roll back or hotfix the slow endpoint."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Eclipse will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Eclipse, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Android app build fails due to conflicting Gradle dependency versions.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the dependency tree, align versions, and force a resolution strategy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "React application throws a hydration error on initial page load.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check for server/client render mismatches and non-deterministic content in components."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: PowerPoint presentation freezes during slide show mode when embedded videos play.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update graphics drivers, compress the media, and disable hardware acceleration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I get a compile error running the React Native app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the React Native project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "VS Code Git integration stops detecting repository changes.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Git path setting in VS Code and reload the window."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Outlook shared mailbox is not appearing in the folder list after being added.",
+    "output": "Team: Software | Assigned to Gita Kumari: Restart Outlook, verify the automapping, and add the mailbox manually if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes pod keeps restarting with an out-of-memory killed status in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the container memory limits and the application's memory usage."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Yarn install keeps failing with a network timeout while downloading packages.",
+    "output": "Team: Software | Assigned to Sita Kumari: Configure the proxy and registry settings for Yarn and increase the network timeout."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Pods for the recommendation engine are pending with insufficient resources.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the recommendation engine, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? High error rate alert on the search API.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the search API pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Adobe Acrobat license is not activating on the new designer's laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Assign the Acrobat license in the Adobe admin console and sign in again."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Webpack dev server throws an out-of-memory heap allocation error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Increase the Node heap size and check for circular imports or large assets."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? mobile API gateway is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the mobile API gateway pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "SharePoint document library search index is outdated and missing recently added files.",
+    "output": "Team: Software | Assigned to Gita Kumari: Re-index the library and check the search crawl status."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Terraform apply fails on the staging environment with a state lock error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check for a stuck lock in the backend and force-unlock it after confirming no run is active."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "CircleCI pipeline is failing on the integration test stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the CircleCI logs for the integration test stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Slack desktop app freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair The Slack desktop app, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Tableau server scheduled workbook refresh fails due to stale database credentials.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update the embedded credentials for the data source and re-run the refresh."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Xcode build target fails with code signing identity errors on the macOS workstation.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the signing certificate and provisioning profile in Xcode and the keychain."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - the product managers needs a Jira Software license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Jira Software license to the product managers in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Files in Microsoft To Do are stuck on 'syncing' and never finish.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Microsoft To Do sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: two new engineers needs a Microsoft 365 E3 license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Microsoft 365 E3 license to two new engineers in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft OneNote notebook sync error code 0xE0000007.",
+    "output": "Team: Software | Assigned to Gita Kumari: Close and reopen the notebook, check the OneDrive sync status, and repair the notebook cache."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Cannot open PDF attachments from Outlook.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the PDF file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "mvn clean install hangs for a long time and then times out.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for mvn clean install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Grafana alert: no data for the queue depth panel.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Grafana alert (no data for the queue depth panel), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Zoom webinar registration page is not sending confirmation emails to attendees.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the webinar email settings and the Zoom notification templates."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "yarn install hangs for a long time and then times out.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for yarn install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "poetry install hangs for a long time and then times out.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for poetry install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Microsoft Outlook automatic replies configuration fails to save.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Exchange connection, try setting the auto-reply via webmail, and repair the Outlook profile."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Adobe Illustrator keeps showing 'not responding' when I open it.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Adobe Illustrator, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: The Redis database in staging is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Redis service status and logs in staging, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? I need Adobe Acrobat Pro set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Adobe Acrobat Pro, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: License request: Adobe Creative Cloud for the new graphic designer.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Adobe Creative Cloud license to the new graphic designer in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PostgreSQL WAL disk storage filled up and halted database writes.",
+    "output": "Team: Software | Assigned to Rita Kumari: Free disk space, check the replication slots and archiving, and restart writes."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "License request: Canva Pro for the marketing team.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Canva Pro license to the marketing team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the email service deployment in Kubernetes is not becoming ready.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the email service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? the marketing team needs a Canva Pro license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Canva Pro license to the marketing team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Visual Studio 2022 IntelliSense stopped working in the C# project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Delete the .vs folder and the component cache, then restart Visual Studio."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Infrastructure change for the new VPC is blocked by a Terraform error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the new VPC, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Running JUnit on my machine produces flaky results.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the JUnit configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Tailwind CSS compilation errors are breaking the frontend build preview.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Tailwind config content paths and the PostCSS setup."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Confluence wiki page editor freezes when pasting formatted tables from Microsoft Word.",
+    "output": "Team: Software | Assigned to Gita Kumari: Clear the browser cache, test in another browser, and paste as plain text or use the import tool."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "MariaDB in the reporting environment is refusing connections.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the MariaDB service status and logs in the reporting environment, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: dotnet restore fails with a dependency resolution error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for dotnet restore, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign a Power BI Pro license to the analytics intern.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Power BI Pro license to the analytics intern in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Android Studio build throws an AAPT2 compilation error on resource XML files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the resource XML files for syntax errors and update the Android Gradle plugin."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "MySQL server is down in staging.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the MySQL service status and logs in staging, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the legal department needs a Adobe Acrobat Pro license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Adobe Acrobat Pro license to the legal department in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Zoom recording is shared as private so external guests cannot open the link.",
+    "output": "Team: Software | Assigned to Gita Kumari: Change the recording sharing settings to allow external viewers."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "OneDrive shows a sign-in error even though my password is correct.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the OneDrive sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Outlook search returns no results even for recent emails.",
+    "output": "Team: Software | Assigned to Gita Kumari: Rebuild the Outlook search index and check the indexing status."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The PostgreSQL database in the analytics environment is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the PostgreSQL service status and logs in the analytics environment, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Adobe Acrobat keeps showing 'not responding' when I open it.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Adobe Acrobat, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I get a compile error running the Django app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Django project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Jenkins pipeline build workspace retains stale files causing test failures.",
+    "output": "Team: Software | Assigned to Rita Kumari: Clean the workspace before each build in the pipeline configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: MongoDB server is down in the UAT environment.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the MongoDB service status and logs in the UAT environment, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - PowerPoint crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair PowerPoint, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "AWS S3 bucket policy blocks read access from the internal Lambda function.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the bucket policy and the Lambda execution role permissions."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign a Jira Software license to the product managers.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Jira Software license to the product managers in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, the new graphic designer needs a Adobe Creative Cloud license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Adobe Creative Cloud license to the new graphic designer in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: I get a compile error running the .NET app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the .NET project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Bitbucket Pipelines pipeline is failing on the build stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Bitbucket Pipelines logs for the build stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Cursor shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Cursor, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: Local build of the Next.js project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Next.js project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Jenkins pipeline is failing on the build stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Jenkins logs for the build stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Adobe Photoshop crashes when opening files from the shared network drive.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update Photoshop, copy files locally for editing, and check the scratch disk settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Apache Tomcat server fails to deploy the compiled Java WAR file due to configuration syntax errors.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the catalina logs and the web.xml and context configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "GitLab CI pipeline is failing on the security scan stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitLab CI logs for the security scan stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Jenkins pipeline is failing on the docker image push stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Jenkins logs for the docker image push stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Postman requests fail with an SSL error against my local API server.",
+    "output": "Team: Software | Assigned to Sita Kumari: Disable SSL verification for localhost in Postman or trust the local dev certificate."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Infrastructure change for the EKS cluster upgrade is blocked by a Terraform error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the EKS cluster upgrade, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Microsoft Teams call recording transcription is missing speaker labels.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the transcription settings and the Teams meeting policy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kafka consumer service stopped processing events due to an unhandled serialization exception.",
+    "output": "Team: Software | Assigned to Rita Kumari: Identify the poison message, fix the deserializer, and restart the consumer."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, The HR team's Excel add-in for payroll reports stopped loading after the Office update.",
+    "output": "Team: Software | Assigned to Gita Kumari: Re-enable the add-in in Excel, check the Office version compatibility, and reinstall the add-in."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Workday mobile app will not load the time-off request page.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update the Workday app, clear its cache, and test the page in the web browser."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "GitHub Actions job for the test stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitHub Actions logs for the test stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? the Outlook mobile app shows a sign-in error even though my password is correct.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the the Outlook mobile app sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Jira workflow transition button is missing for project managers.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the workflow transition conditions and the project role permissions."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Xcode Simulator is extremely slow and the app will not install on it.",
+    "output": "Team: Software | Assigned to Sita Kumari: Erase the simulator, update Xcode, and clear the derived data folder."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Maven build fails due to a corrupted local repository dependency cache.",
+    "output": "Team: Software | Assigned to Sita Kumari: Delete the corrupted artifacts from the local .m2 repository and re-run the build."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The build step in the Jenkins pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Jenkins logs for the build stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The build step in the Bitbucket Pipelines pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Bitbucket Pipelines logs for the build stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PowerPoint files open as read-only from SharePoint even though I have edit rights.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the PowerPoint file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "CloudWatch is showing RDS connections near the limit.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the CloudWatch alert (RDS connections near the limit), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install Camtasia on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Camtasia, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Docker Desktop on my Mac mini cannot start containers.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart Docker Desktop on the Mac mini, reset the virtualization backend, and update to the latest version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the Spring Boot project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Spring Boot project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "ArgoCD job for the sync stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the ArgoCD logs for the sync stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Postman API client throws a CORS error when testing local backend microservices.",
+    "output": "Team: Software | Assigned to Sita Kumari: Use the Postman desktop agent or disable the browser-based requests for local testing."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Jenkins CI/CD build pipeline is failing on the automated unit test execution stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Jenkins console output for the failing tests and the agent environment."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: License request: Jira Software for the product managers.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Jira Software license to the product managers in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Running Cypress on my machine produces flaky results.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Cypress configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: PyCharm will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update PyCharm, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Files in Dropbox Business are stuck on 'syncing' and never finish.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Dropbox Business sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install Snagit on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Snagit, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Files in OneNote are stuck on 'syncing' and never finish.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the OneNote sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Vue.js single file component throws template compilation errors on build.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the template syntax and the Vue compiler version compatibility."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Running Jest on my machine produces flaky results.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Jest configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Teams keeps showing 'we ran into a problem' and will not open.",
+    "output": "Team: Software | Assigned to Gita Kumari: Clear the Teams cache, reinstall the client, and check the account sign-in."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "poetry install fails with a dependency resolution error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for poetry install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Cassandra database in production is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Cassandra service status and logs in production, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Ansible playbook fails when deploying the new configuration to the web servers.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the playbook error output and the target host connectivity and variables."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Pytest cannot import my local module after I moved the project folder.",
+    "output": "Team: Software | Assigned to Sita Kumari: Fix the package paths or conftest configuration and reinstall the project in editable mode."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Redis database in production is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Redis service status and logs in production, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New Relic is showing error rate spike on the web app.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the New Relic alert (error rate spike on the web app), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Salesforce CRM integration sync job failed with a data validation exception overnight.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the sync job logs, identify the failing records, and correct the field validation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "WebStorm will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update WebStorm, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Prometheus alert: high memory usage on the worker nodes.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Prometheus alert (high memory usage on the worker nodes), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Excel freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Excel, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes liveness probe keeps failing and restarting a healthy database pod.",
+    "output": "Team: Software | Assigned to Rita Kumari: Adjust the probe timeout and initial delay for the database container."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft Teams background blur causes high CPU usage and video lag.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update Teams, disable GPU hardware acceleration, and check the device specs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "pip install throws a permission error on my machine.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for pip install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "bundle install throws a permission error on my machine.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for bundle install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Datadog synthetic test monitor fails with a timeout error on the login page.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the login page performance and the synthetic test configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Zoom cloud recording link permissions restrict viewing for external participants.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update the recording share settings and the account's sharing policy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I keep getting an error when I run git cherry-pick.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git cherry-pick error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: The staging environment database needs to be refreshed from a production snapshot.",
+    "output": "Team: Software | Assigned to Rita Kumari: Take a masked snapshot of production, restore it to staging, and run the post-refresh scripts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - I need Tableau Desktop set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Tableau Desktop, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Python virtual environment fails to activate correctly in the local terminal shell.",
+    "output": "Team: Software | Assigned to Sita Kumari: Recreate the virtual environment and verify the shell activation script and execution policy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: the GraphQL gateway deployment in Kubernetes is not becoming ready.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the GraphQL gateway, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "WebStorm shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update WebStorm, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: reporting backend is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the reporting backend pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Visio files open as read-only from SharePoint even though I have edit rights.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Visio file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - go mod download fails with a dependency resolution error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for go mod download, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Docker Compose up fails on my laptop because the network port is already allocated.",
+    "output": "Team: Software | Assigned to Sita Kumari: Find the process using the port, stop it or change the port mapping, and re-run compose."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Homebrew is failing to install developer packages on my Mac.",
+    "output": "Team: Software | Assigned to Sita Kumari: Run brew doctor, update Homebrew, and fix the reported permission issues."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Adobe Acrobat crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Adobe Acrobat, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Power BI report in the Teams tab does not refresh for the management team.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the scheduled refresh on the dataset and the viewers' workspace permissions."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: the support team needs a Zendesk agent seats license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Zendesk agent seats license to the support team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Google Drive for desktop shows a sign-in error even though my password is correct.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Google Drive for desktop sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Docker Desktop on my laptop says port 8080 is already allocated when starting a container.",
+    "output": "Team: Software | Assigned to Sita Kumari: Identify the process using port 8080 and stop it or remap the container port."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Excel pivot table data source range does not update when new rows are appended.",
+    "output": "Team: Software | Assigned to Gita Kumari: Convert the source to a table and refresh the pivot connection."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Rider shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Rider, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Please assign a Microsoft Project license to the finance analyst.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Microsoft Project license to the finance analyst in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "VS Code shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update VS Code, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - I get a compile error running the Spring Boot app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Spring Boot project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: Visual Studio 2022 shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Visual Studio 2022, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "ServiceNow knowledge base article search returns irrelevant results.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the knowledge search configuration and article keywords."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Composer install is blocked by a security advisory for an old package version.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update the package to the patched version or adjust the audit configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the Flask project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Flask project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft Teams freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Microsoft Teams, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Laravel dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Laravel project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: CircleCI job for the integration test stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the CircleCI logs for the integration test stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Android Studio is extremely slow and freezes while editing files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Android Studio, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "npm audit fix breaks the build after upgrading a dependency.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the breaking changes, pin the compatible version, and apply the fix selectively."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Elasticsearch server is down in the logging cluster.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Elasticsearch service status and logs in the logging cluster, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The release step in the Azure DevOps pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Azure DevOps logs for the release stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the Django project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Django project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Kafka topic partitions are under-replicated after a broker restart.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the broker status and the ISR, and trigger a preferred replica election."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Docker Desktop on my MacBook Pro cannot start containers.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart Docker Desktop on the MacBook Pro, reset the virtualization backend, and update to the latest version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Jest tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Jest configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes pods for the billing service are stuck in CrashLoopBackOff.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the billing service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Pods for the email service are pending with insufficient resources.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the email service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PostgreSQL connection pool gets exhausted under heavy concurrent API request loads.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the pool size, connection leaks in the application, and add PgBouncer if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Confluence page attachment upload fails for files containing special characters.",
+    "output": "Team: Software | Assigned to Gita Kumari: Rename the files and review the attachment settings on the Confluence site."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Cannot open Excel attachments from Outlook.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Excel file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Datadog is showing a dropped host from the staging cluster.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Datadog alert (a dropped host from the staging cluster), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: Elasticsearch in the logging cluster is refusing connections.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Elasticsearch service status and logs in the logging cluster, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Apache Tomcat worker threads reach maximum capacity during a traffic surge.",
+    "output": "Team: Software | Assigned to Rita Kumari: Increase the thread pool and investigate slow requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Docker build fails on the build agent because of disk space exhaustion.",
+    "output": "Team: Software | Assigned to Rita Kumari: Prune unused images and volumes on the build agent and expand the disk."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I keep getting an error when I run git submodule update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git submodule update error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, I get a compile error running the React app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the React project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Nginx reverse proxy returns 502 bad gateway errors for the backend application.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the upstream application status and the Nginx error logs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install SPSS on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for SPSS, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "MySQL in staging is refusing connections.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the MySQL service status and logs in staging, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Laravel migration rollback fails due to foreign key constraint violations.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the migration order and drop the constraints in the correct sequence."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Visual Studio Code fails to install extensions due to a corporate certificate validation error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Configure VS Code to trust the corporate root certificate and set the proxy settings for the extension marketplace."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Laravel queue worker stops processing background jobs after a database deadlock.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the deadlock in the database logs and restart the queue worker with retry settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Docker Desktop on my ThinkPad says the engine is not running.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart Docker Desktop on the ThinkPad, reset the virtualization backend, and update to the latest version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I need Snagit set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Snagit, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "JUnit tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the JUnit configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The search API is returning 5xx errors in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the search API pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Dropbox Business is not syncing on my computer.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Dropbox Business sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Bitbucket Pipelines job for the build stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Bitbucket Pipelines logs for the build stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Vitest tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Vitest configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I keep getting an error when I run git stash pop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git stash pop error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, Salesforce report export to Excel fails for custom object summaries.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the report type and export permissions, and try the formatted export option."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Visio crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Visio, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git says 'detected dubious ownership in repository' on my Windows laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Add the repository to the Git safe.directory configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Sass stylesheet compilation fails due to deprecated division syntax.",
+    "output": "Team: Software | Assigned to Sita Kumari: Replace the division syntax with math.div and update the Sass package."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Next.js server-side rendering API route returns 404 when deployed to Vercel.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the route file location and the Vercel build output configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: I need Minitab set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Minitab, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "GitHub Copilot extension is not suggesting code in VS Code.",
+    "output": "Team: Software | Assigned to Sita Kumari: Sign in to GitHub in VS Code, check the Copilot subscription status, and reload the extension."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Ruby on Rails bundle install fails on the native gem compilation step.",
+    "output": "Team: Software | Assigned to Sita Kumari: Install the required native libraries and build tools and re-run bundle install."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Zendesk macros are not appearing for the new support agents.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the macro's group restrictions and the agents' group membership in Zendesk."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: I need MATLAB set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for MATLAB, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git push is failing on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git push error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: the finance analyst needs a Microsoft Project license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Microsoft Project license to the finance analyst in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Elasticsearch cluster health status turned yellow due to unassigned replica shards.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the node count and the replica settings and reallocate the shards."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "ServiceNow incident form fields are unclickable in Firefox.",
+    "output": "Team: Software | Assigned to Gita Kumari: Clear the browser cache, disable conflicting extensions, and test with a supported browser version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Flutter mobile app build fails on iOS due to a CocoaPods dependency version mismatch.",
+    "output": "Team: Software | Assigned to Sita Kumari: Run pod repo update and pod install, and align the pod versions."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: PostgreSQL server is down in the analytics environment.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the PostgreSQL service status and logs in the analytics environment, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "WebStorm is extremely slow and freezes while editing files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update WebStorm, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "GitHub Actions pipeline is failing on the deploy to staging stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitHub Actions logs for the deploy to staging stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? mvn clean install throws a permission error on my machine.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for mvn clean install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Power BI desktop application crashes when refreshing direct query data connections.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update Power BI Desktop, check the data source driver, and review the query performance."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "SonarQube code quality scan fails because of quality gate threshold violations.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the quality gate conditions and the flagged issues in the scan report."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Need a software license and installation assistance for Adobe Creative Cloud on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Assign the Adobe Creative Cloud license in the admin console, verify system requirements, and push the installer package."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The .NET dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the .NET project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "SQL Server in the data warehouse is refusing connections.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the SQL Server service status and logs in the data warehouse, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Visual Studio 2022 is extremely slow and freezes while editing files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Visual Studio 2022, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Grafana is showing disk usage above 90% on the database host.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Grafana alert (disk usage above 90% on the database host), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "License request: Microsoft Project for the finance analyst.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Microsoft Project license to the finance analyst in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? The docker image push step in the Jenkins pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Jenkins logs for the docker image push stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "IntelliJ IDEA will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update IntelliJ IDEA, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft Teams guest users cannot see the files in the shared channel.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the shared channel file permissions and the guest access policy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git fetch is failing on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git fetch error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Docker Desktop on my Windows 11 laptop says the engine is not running.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart Docker Desktop on the Windows 11 laptop, reset the virtualization backend, and update to the latest version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Jira service management SLA timers pause unexpectedly on open tickets.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the SLA configuration and the pause conditions."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Git cherry-pick is failing on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git cherry-pick error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I need Microsoft Visio set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Microsoft Visio, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Dropbox Business shows a sign-in error even though my password is correct.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Dropbox Business sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: GitHub Actions job for the deploy to staging stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitHub Actions logs for the deploy to staging stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Tableau reporting dashboard throws an out-of-memory exception when exporting large datasets.",
+    "output": "Team: Software | Assigned to Gita Kumari: Reduce the export size, optimize the data extract, and review the Tableau server memory settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Software install request: Minitab.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Minitab, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "SAP user cannot post invoices because the finance module shows an authorization error.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the user's SAP role assignment for the finance transaction and request the missing role."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Excel freezes whenever opening large spreadsheets with complex macros.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the add-ins and macro settings, repair Office, and review the workbook for problematic links."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Go compiler throws package version mismatch errors during module downloads.",
+    "output": "Team: Software | Assigned to Sita Kumari: Run go mod tidy, verify the module versions, and clear the module cache."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I get a compile error running the Angular app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Angular project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "TypeScript compiler throws implicit any type errors across legacy project files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Adjust the tsconfig strictness or add type annotations incrementally."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I need Camtasia set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Camtasia, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "order management service is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the order management service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "inventory service is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the inventory service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: IntelliJ IDEA license activation server is unreachable from the developer laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the IDE proxy settings and the license server address, and try offline activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Docker Desktop fails to start on my laptop after the latest operating system update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Docker Desktop, reset the WSL2 or virtualization backend, and check the OS compatibility notes."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "GitHub pull request review notifications are not arriving in my email inbox.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the GitHub notification settings and the verified email address on the account."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes ingress controller returns 503 service temporarily unavailable.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the backend service endpoints and the pod readiness."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Figma desktop app crashes when rendering heavy vector illustrations in the design file.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update the Figma app, check GPU acceleration settings, and split the heavy file."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "RabbitMQ message broker runs out of disk space during high traffic volume.",
+    "output": "Team: Software | Assigned to Rita Kumari: Expand the disk, set queue limits, and review the consumer throughput."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "MongoDB query on the orders collection became very slow after the data grew.",
+    "output": "Team: Software | Assigned to Rita Kumari: Analyze the query plan and add the missing index."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Microsoft Outlook crashes immediately every time I open a calendar meeting invite.",
+    "output": "Team: Software | Assigned to Gita Kumari: Troubleshoot Outlook profile corruption, disable faulty add-ins, clear the calendar cache, and repair the Office installation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "GitLab CI job for the deploy stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitLab CI logs for the deploy stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "RSpec tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the RSpec configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the React Native project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the React Native project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Software install request: Microsoft Visio.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Microsoft Visio, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Need a Microsoft Visio license for the architecture team.",
+    "output": "Team: Software | Assigned to Gita Kumari: Assign Visio licenses to the team in the Microsoft 365 admin center and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Software install request: Zoom Rooms controller software.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Zoom Rooms controller software, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Datadog alert: high latency on the API servers.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Datadog alert (high latency on the API servers), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Power BI Desktop freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Power BI Desktop, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Playwright end-to-end tests cannot find elements after the latest UI change.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update the selectors to match the new UI and prefer role-based locators."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Kubernetes horizontal pod autoscaler fails to scale up under CPU load.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the metrics server and the HPA target and resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Cannot open Visio attachments from Outlook.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Visio file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "composer install fails with a dependency resolution error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for composer install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Python pip install throws SSL certificate verification failure errors.",
+    "output": "Team: Software | Assigned to Sita Kumari: Add the corporate root certificate to pip's trusted store and set the proxy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Git merge is failing on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git merge error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the Flutter project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Flutter project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft Visio fails to load custom stencils.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the stencil file path and repair Visio."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The deploy to staging step in the GitHub Actions pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitHub Actions logs for the deploy to staging stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Docker Desktop on my MacBook Pro says the engine is not running.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart Docker Desktop on the MacBook Pro, reset the virtualization backend, and update to the latest version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PostgreSQL slow query log shows a missing index on a foreign key column.",
+    "output": "Team: Software | Assigned to Rita Kumari: Add the index on the foreign key column and re-check the query plan."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Rider will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Rider, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Docker Desktop on my Mac mini says the engine is not running.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart Docker Desktop on the Mac mini, reset the virtualization backend, and update to the latest version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? The payment service is returning 5xx errors in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the payment service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Visio keeps showing 'not responding' when I open it.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Visio, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "CloudWatch alert: RDS connections near the limit.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the CloudWatch alert (RDS connections near the limit), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Cypress tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Cypress configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the data team needs a Tableau Creator license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Tableau Creator license to the data team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: ServiceNow approval emails are not being sent to managers.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the approval notification rules and the email configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: GitHub Actions workflow is stuck in queued state because no runner is available.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the self-hosted runner status and labels and restart the runner service."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install Microsoft Visio on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Microsoft Visio, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The order management service is returning 5xx errors in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the order management service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft Edge group policy is preventing the PDF viewer extension from running.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the Edge extension policy and allow the PDF viewer extension."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes pods for the ingestion worker are stuck in CrashLoopBackOff.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the ingestion worker, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Eclipse shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Eclipse, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: OneNote is not syncing on my computer.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the OneNote sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Azure DevOps pipeline is failing on the release stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Azure DevOps logs for the release stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Zoom freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Zoom, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: The React dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the React project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Redis persistence snapshot save fails due to disk write permissions.",
+    "output": "Team: Software | Assigned to Rita Kumari: Fix the data directory permissions and verify the RDB save succeeds."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Grafana dashboard panel shows 'No data' due to an incorrect timezone offset.",
+    "output": "Team: Software | Assigned to Rita Kumari: Fix the dashboard timezone setting and the query time range."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, Git clone is failing on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git clone error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Box Drive shows a sign-in error even though my password is correct.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Box Drive sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Redis cluster node failure triggers automatic failover but client connections remain dropped.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the client's cluster-aware configuration and the failover topology."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? ServiceNow report scheduling fails to dispatch automated email reports.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the scheduled report configuration and email notification settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Jest unit test suite fails intermittently due to asynchronous timing race conditions.",
+    "output": "Team: Software | Assigned to Sita Kumari: Use proper async awaits and fake timers, and isolate shared state between tests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Grafana monitoring charts show missing time-series data panels after the system upgrade.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the data source connection and the panel queries after the upgrade."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Microsoft To Do is not syncing on my computer.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Microsoft To Do sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "OneNote shows a sign-in error even though my password is correct.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the OneNote sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Eclipse IDE fails to start after the Java runtime was updated on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Point Eclipse to a compatible JDK in eclipse.ini and clear the workspace metadata."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Cannot open PowerPoint attachments from Outlook.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the PowerPoint file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Zoom desktop client audio output device keeps resetting to default during conference calls.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Zoom audio settings, update the client, and verify the OS default device settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Power BI Desktop crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Power BI Desktop, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes pods for the GraphQL gateway are stuck in CrashLoopBackOff.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the GraphQL gateway, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Xcode is extremely slow and freezes while editing files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Xcode, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Slack desktop application fails to update automatically and stays stuck on an older version.",
+    "output": "Team: Software | Assigned to Gita Kumari: Clear the Slack cache, reinstall the latest desktop client, and verify the update policy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Prometheus alerting rule triggers false alarms due to transient network spikes.",
+    "output": "Team: Software | Assigned to Rita Kumari: Add a 'for' duration to the alerting rule and tune the threshold."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Rider is extremely slow and freezes while editing files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Rider, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install AutoCAD on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for AutoCAD, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: user authentication service is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the user authentication service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? High error rate alert on the mobile API gateway.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the mobile API gateway pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? AWS RDS database instance CPU utilization spikes to 100% during batch processing.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the batch queries and indexes and scale the instance if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "search API is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the search API pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the HR team needs a DocuSign license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the DocuSign license to the HR team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Adobe Illustrator freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Adobe Illustrator, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Software install request: AutoCAD.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for AutoCAD, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The sync step in the ArgoCD pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the ArgoCD logs for the sync stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "npm install hangs for a long time and then times out.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for npm install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Word freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Word, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Notion desktop app is showing a blank white screen instead of workspace pages.",
+    "output": "Team: Software | Assigned to Gita Kumari: Clear the Notion app cache, reinstall the client, and verify the workspace login."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: GitHub Actions pipeline is failing on the test stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitHub Actions logs for the test stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Redis memory usage keeps growing on the shared development cache server.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the key TTLs and eviction policy and identify large keys."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The security scan step in the GitLab CI pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitLab CI logs for the security scan stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "poetry install throws a permission error on my machine.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for poetry install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Production deployment pipeline failed at the Helm upgrade step.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Helm release status and the failed hook or template error, and roll back if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Outlook keeps showing 'not responding' when I open it.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Outlook, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Pods for the GraphQL gateway are pending with insufficient resources.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the GraphQL gateway, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Microsoft Teams meeting recordings are not saving to the shared folder after calls.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Teams recording policy and the OneDrive/SharePoint storage location."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Microsoft 365 apps show 'unlicensed product' after the subscription renewal.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license assignment in the admin center and sign out and back in to Office."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Running RSpec on my machine produces flaky results.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the RSpec configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I get a compile error running the Vue app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Vue project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, I get a compile error running the Laravel app locally.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Laravel project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: I keep getting an error when I run git merge.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git merge error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Slack desktop app keeps showing 'not responding' when I open it.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair The Slack desktop app, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the .NET project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the .NET project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Chrome keeps blocking an approved extension because of a company policy setting.",
+    "output": "Team: Software | Assigned to Gita Kumari: Add the extension ID to the Chrome allow list policy and push the policy update."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Datadog alert: a dropped host from the staging cluster.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Datadog alert (a dropped host from the staging cluster), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, the frontend deployment in Kubernetes is not becoming ready.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the frontend, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: AWS CloudWatch log group retention policy causes premature log deletion.",
+    "output": "Team: Software | Assigned to Rita Kumari: Update the retention setting on the log group."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Word document keeps crashing when track changes is turned on in a large file.",
+    "output": "Team: Software | Assigned to Gita Kumari: Repair Office, disable add-ins, and split or clean the document's revision history."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? High error rate alert on the order management service.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the order management service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Rust cargo build fails due to missing system C compiler dependencies.",
+    "output": "Team: Software | Assigned to Sita Kumari: Install the build tools and C compiler required by the native crates."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Jest tests pass individually but fail with a timeout when I run the whole suite.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check for shared state and open handles between tests and increase the timeout where needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Containers on the staging server cannot start because the host disk is full.",
+    "output": "Team: Software | Assigned to Rita Kumari: Prune unused images and logs on the host and expand the disk."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "pip install fails with a dependency resolution error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for pip install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? SSL termination on the load balancer is sending traffic to a dead backend node.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the backend health checks on the load balancer and remove the unhealthy node."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Files in the Outlook mobile app are stuck on 'syncing' and never finish.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the the Outlook mobile app sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Google Chrome browser extensions are disabled by enterprise group policy settings.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the Chrome extension allow list policy and add the approved extensions."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Microsoft Project file is corrupted and will not open after the last update.",
+    "output": "Team: Software | Assigned to Gita Kumari: Try opening in safe mode, recover from a previous version, and repair the Project installation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Salesforce API integration throws a rate limit exceeded exception.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the API usage and optimize the integration's call volume."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes pods for the frontend are stuck in CrashLoopBackOff.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the frontend, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PostgreSQL replication lag keeps growing on the read replica.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the replica resource usage and long-running queries, and verify the WAL shipping."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Azure App Service is returning 500 errors after the configuration change.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the App Service logs and the application settings, and revert the change if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "ESLint shows parsing errors after upgrading to the latest TypeScript version.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update the TypeScript ESLint parser and plugin to versions compatible with the new TypeScript."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Confluence page export to Word fails for pages with complex math formulas.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the export settings and the math macro compatibility."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Terraform plan shows unexpected drift in the production VPC resources.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the drifted resources, identify the manual changes, and reconcile the state."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Adobe Acrobat freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Adobe Acrobat, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Scheduled database backup job failed last night and did not upload to storage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the backup job logs, verify storage credentials, and re-run the backup."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PHP Composer update fails with security advisory warnings on legacy modules.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the advisories, update the affected packages, or allow-list the audit for the legacy modules."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, Terraform apply for the Azure AKS module fails.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the Azure AKS module, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Slack notification bot for build alerts stopped posting after the webhook URL rotation.",
+    "output": "Team: Software | Assigned to Rita Kumari: Update the webhook URL in the CI notification configuration and test it."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Playwright tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Playwright configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "CloudWatch alarm for high CPU on the API servers is not sending notifications.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the alarm's SNS topic and subscription confirmation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Confluence macro rendering fails with an unexpected error message.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the macro's plugin status and the Confluence logs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Jira project dashboard is throwing a 500 internal server error on load.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Jira application logs, the dashboard gadgets, and recent plugin updates."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Dotnet build throws missing reference errors for NuGet packages.",
+    "output": "Team: Software | Assigned to Sita Kumari: Clear the NuGet cache, restore packages, and check the package source configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "ArgoCD pipeline is failing on the sync stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the ArgoCD logs for the sync stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: AWS ECS container task stops immediately after deployment due to a missing environment variable.",
+    "output": "Team: Software | Assigned to Rita Kumari: Add the missing environment variable to the task definition and redeploy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, The React Native dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the React Native project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Zoom breakout room assignments disappear when the meeting host reconnects.",
+    "output": "Team: Software | Assigned to Gita Kumari: Pre-assign the breakout rooms in the meeting settings and update the Zoom client."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git stash pop is failing on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git stash pop error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, License request: Visio for the architecture team.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Visio license to the architecture team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: VS Code debugger will not attach to the local Node process on my machine.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the launch.json configuration and the debug port, and restart the process with inspect enabled."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The inventory service is returning 5xx errors in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the inventory service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "bundle install hangs for a long time and then times out.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for bundle install, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Kubernetes pods for the image processing service are stuck in CrashLoopBackOff.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the image processing service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Excel Power Query fails to import data from the internal SQL database.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the data source credentials and connector, and update the Power Query driver."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "GitLab CI pipeline is failing on the deploy stage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitLab CI logs for the deploy stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Docker Desktop on my Dell XPS says the engine is not running.",
+    "output": "Team: Software | Assigned to Sita Kumari: Restart Docker Desktop on the Dell XPS, reset the virtualization backend, and update to the latest version."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? MySQL service will not start on the shared development VM after a package update.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the MySQL error log, fix the configuration incompatibility, and restart the service."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the React project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the React project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Software install request: Snagit.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Snagit, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Word crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Word, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Please install MATLAB on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for MATLAB, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: QuickBooks Desktop shows a company file error when opening the shared file.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the file permissions and the QuickBooks database server manager."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign a Zendesk agent seats license to the support team.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Zendesk agent seats license to the support team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Excel crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Excel, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Google Drive for desktop is not syncing on my computer.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Google Drive for desktop sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: OneDrive is not syncing on my computer.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the OneDrive sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "License request: Power BI Pro for the analytics intern.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Power BI Pro license to the analytics intern in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: the architecture team needs a Visio license.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Visio license to the architecture team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install Adobe Acrobat Pro on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Adobe Acrobat Pro, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Elasticsearch index mapping conflict prevents new log ingestion.",
+    "output": "Team: Software | Assigned to Rita Kumari: Fix the mapping conflict with a new index template and reindex if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the ingestion worker deployment in Kubernetes is not becoming ready.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the ingestion worker, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Excel files open as read-only from SharePoint even though I have edit rights.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Excel file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Vue dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Vue project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Request to install AutoCAD on the two new engineering workstations.",
+    "output": "Team: Software | Assigned to Gita Kumari: Assign the AutoCAD licenses and install the software with the standard deployment package."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local build of the Angular project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Angular project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Cypress end-to-end test suite times out while waiting for UI elements to load.",
+    "output": "Team: Software | Assigned to Sita Kumari: Increase the command timeout, review the selectors, and check the test environment startup."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Nuxt.js hydration mismatch warning appears on client-side state rendering.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check for server/client state differences and wrap client-only components."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Datadog APM agent is not reporting logs from the staging server.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Datadog agent status, the API key, and the log collection configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? SharePoint shows a sign-in error even though my password is correct.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the SharePoint sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Redis cache instance runs out of memory during the integration test suite.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the maxmemory and eviction policy and the key TTLs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Running Vitest on my machine produces flaky results.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Vitest configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Salesforce integration with the billing system returns an API limit exceeded error.",
+    "output": "Team: Software | Assigned to Gita Kumari: Review the API call volume for the integration and adjust the batch size or schedule."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "cargo build throws a permission error on my machine.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for cargo build, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Android Studio shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Android Studio, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The SQL Server database in the data warehouse is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the SQL Server service status and logs in the data warehouse, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: The Spring Boot dev server will not start on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Spring Boot project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the image processing service deployment in Kubernetes is not becoming ready.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the image processing service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? The deploy step in the GitLab CI pipeline has been red since this morning.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the GitLab CI logs for the deploy stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Files in Google Drive for desktop are stuck on 'syncing' and never finish.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Google Drive for desktop sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Kubernetes kubectl context is pointing to the wrong production cluster namespace.",
+    "output": "Team: Software | Assigned to Rita Kumari: Update the kubeconfig context and namespace and verify with kubectl config current-context."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Running Pytest on my machine produces flaky results.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Pytest configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: The Elasticsearch database in the logging cluster is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Elasticsearch service status and logs in the logging cluster, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Jenkins job for the build stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Jenkins logs for the build stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Infrastructure change for the Azure AKS module is blocked by a Terraform error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the Azure AKS module, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "payment service is down and customers are seeing error pages.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the payment service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, Please assign a Tableau Creator license to the data team.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Tableau Creator license to the data team in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, Cursor is extremely slow and freezes while editing files.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Cursor, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Infrastructure change for the CloudFront distribution is blocked by a Terraform error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the CloudFront distribution, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Apache Kafka consumer group rebalancing loop causes high message latency.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the session and poll timeouts and the consumer processing time."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "MongoDB replica set primary node crashed and fails to elect a new primary.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the replica set members and voting configuration and restart the failed node."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Microsoft Project timeline view formatting is distorted when exported to PDF.",
+    "output": "Team: Software | Assigned to Gita Kumari: Adjust the page setup and timeline settings before exporting."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git rebase is failing on my laptop.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git rebase error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PowerPoint freezes every few minutes and has to be force-closed.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair PowerPoint, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install Tableau Desktop on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Tableau Desktop, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Pods for the image processing service are pending with insufficient resources.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the image processing service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The reporting backend is returning 5xx errors in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the reporting backend pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Python Poetry lock file conflicts with the pyproject.toml specification.",
+    "output": "Team: Software | Assigned to Sita Kumari: Run poetry lock to regenerate the lock file and resolve the version constraints."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Jenkins job for the docker image push stage times out every run.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Jenkins logs for the docker image push stage, check the runner or agent health and credentials, and fix the failing step."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git pull fails with a merge conflict error in the main branch of the repository.",
+    "output": "Team: Software | Assigned to Sita Kumari: Resolve the conflicts locally, verify the merged files, and complete the merge commit."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Outlook calendar reminders are not popping up on desktop notifications.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Outlook reminder settings and the Windows notification settings."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Django migration is stuck waiting for a table lock on the production database.",
+    "output": "Team: Software | Assigned to Rita Kumari: Identify the blocking session, terminate it if safe, and re-run the migration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "MySQL replication between the primary and replica servers stopped with a duplicate key error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Identify the conflicting row, skip or fix the transaction, and restart replication."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Nginx rate-limiting zone drops legitimate API traffic during traffic peaks.",
+    "output": "Team: Software | Assigned to Rita Kumari: Tune the rate limit and burst settings for the API location."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign a Microsoft 365 E3 license to two new engineers.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Microsoft 365 E3 license to two new engineers in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Word files open as read-only from SharePoint even though I have edit rights.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Word file associations and protected view settings, and repair the Office installation if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Cassandra server is down in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the Cassandra service status and logs in production, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - dotnet restore hangs for a long time and then times out.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for dotnet restore, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: PyCharm shows an error on launch and never loads the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update PyCharm, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Please assign a Salesforce license to the new sales rep.",
+    "output": "Team: Software | Assigned to Gita Kumari: Verify the license availability and approval, assign the Salesforce license to the new sales rep in the admin console, and confirm activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "AWS CloudFormation stack update rolls back due to a resource naming conflict.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the stack events, rename the conflicting resource, and re-run the update."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The MongoDB database in the UAT environment is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the MongoDB service status and logs in the UAT environment, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: My local Angular dev server reloads constantly and never finishes compiling.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the file watcher limits and exclude large folders from the watch configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PostgreSQL in the analytics environment is refusing connections.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the PostgreSQL service status and logs in the analytics environment, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Database migration script fails halfway through execution on the staging environment.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the migration logs, roll back the partial changes, and fix the failing statement before re-running."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Terraform apply for the CloudFront distribution fails.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the CloudFront distribution, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The notification service is returning 5xx errors in production.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the notification service pods or instances, review the APM errors and recent deployments, and roll back or scale as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, GitLab CI runner is stuck and jobs are waiting in the pending queue.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the runner service status and registration and restart the runner."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "DocuSign integration button is missing inside Salesforce.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the DocuSign managed package installation and the user's permission set."
+  }
+]

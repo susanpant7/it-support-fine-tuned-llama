@@ -1,0 +1,6 @@
+# Model weights are too large for GitHub (100 MB file limit); keep them local or on Google Drive
+*.gguf
+*.safetensors
+lora_model/
+lora_model.zip
+.DS_Store

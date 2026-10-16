@@ -1,0 +1,502 @@
+[
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The wall jack at the mailroom is dead and the laptop shows 'cable unplugged'.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Check the switch port that serves the mailroom, test the patch cable and wall jack with a cable tester, and re-terminate or re-enable as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Code signing certificate for the desktop installer expires next month.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Renew the code signing certificate and update the build pipeline's signing configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I keep getting an error when I run git clone.",
+    "output": "Team: Software | Assigned to Sita Kumari: Review the exact git clone error, check the repository state and credentials, and resolve the conflict or configuration issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Nagios host check for the branch router is flapping between up and down.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Check the WAN link latency and the Nagios check thresholds for the branch router."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Can someone look at this? Bandwidth monitoring graphs stopped updating for all WAN interfaces.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Check the SNMP polling job on the monitoring server and the credentials for the routers."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Penetration test finding: a broken access control on the invoices API.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Validate the finding (a broken access control on the invoices API), assign a severity and owner, and track the fix to a verified retest."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Emergency 911 location is wrong for the phones on the 4th floor.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Update the emergency location mapping for the 4th floor phones in the phone system."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Memory leak suspected in the Node.js API service running in Kubernetes.",
+    "output": "Team: Software | Assigned to Rita Kumari: Capture heap snapshots from the pod, review the APM memory trends, and set restart limits."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Windows reports another device is using the IP assigned to the reception kiosk.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Identify the conflicting MAC addresses from the switch and DHCP logs for the reception kiosk, fix the static or reservation overlap, and renew the lease."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "DNS SPF record needs an update to include the new marketing email service.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Update the SPF TXT record in the public DNS zone and verify it stays within the lookup limit."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Email spoofing our CEO's address was delivered to the finance team.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Quarantine the message, check the DMARC reports, and warn the finance team."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The CFO is locked out of their account.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Verify the identity of The CFO, unlock the account, reset the password if needed, and check the lockout source."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New subnet and VLAN needed for the new manufacturing floor.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Allocate a subnet for the new manufacturing floor, create the VLAN, SVI, and DHCP scope, and add routing and documentation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PoE is not powering the access point in the stairwell.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Check the PoE budget and port PoE status for the access point in the stairwell, test the cable run, and move it to a known-good PoE port if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? The retail store 12 lost its WAN connection to headquarters.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Check the WAN router interface status and errors for the retail store 12, confirm failover is working, and open a ticket with the carrier."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Pytest tests fail locally with a timeout.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Pytest configuration, isolate shared state, increase timeouts where needed, and re-run the failing tests in isolation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Employee reported a phishing email about a voicemail notification.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Analyze the email about a voicemail notification, block the sender and URLs, purge it from all mailboxes, and check whether anyone clicked or entered credentials."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Fiber link to the 5th floor IDF is showing high optical loss.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Check optical power levels and SFP diagnostics on the uplink to the 5th floor IDF, clean or replace the fiber jumper, and swap the transceiver if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Requesting access to the production Kubernetes namespace for the on-call engineer.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Confirm approval, grant time-limited role-based access through the access tool, and schedule removal."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Zoom plug-in for Outlook is not adding meeting links to invites.",
+    "output": "Team: Software | Assigned to Gita Kumari: Reinstall the Zoom Outlook add-in and verify it is enabled in Outlook."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please install Minitab on my workstation.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Minitab, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Salesforce dashboard shows stale data even after clicking refresh.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the dashboard running user and the report filters, and refresh the underlying reports."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "DHCP is not handing out addresses to the lab network.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Check the DHCP scope utilization for the lab network, the relay configuration on its gateway interface, and the DHCP server logs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: MDM reports An Android phone with an outdated OS as non-compliant.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Review the compliance failure for An Android phone with an outdated OS, enforce the policy through MDM, and block access until it is compliant."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? GCP Cloud SQL instance is running out of storage.",
+    "output": "Team: Software | Assigned to Rita Kumari: Enable automatic storage increase or expand the disk, and clean up old data."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "An engineering team lead cannot complete MFA because the authenticator was on the old phone.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Verify the identity of An engineering team lead, remove the old MFA device, and send a new enrollment link."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "VPN gateway certificate-based login works but the username/password fallback does not.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Check the authentication profile and the LDAP/RADIUS server settings on the VPN gateway."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I cannot get the corporate VPN to connect while working from the airport Wi-Fi.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Check the VPN client logs for the attempt from the airport Wi-Fi, verify the gateway is reachable on the required ports, and review the user's VPN profile."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Git LFS files are not downloading when I clone the design assets repository.",
+    "output": "Team: Software | Assigned to Sita Kumari: Install Git LFS, run git lfs install, and pull the LFS objects."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: No network link at cubicle 7A in finance.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Check the switch port that serves cubicle 7A in finance, test the patch cable and wall jack with a cable tester, and re-terminate or re-enable as needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "A jailbroken iPhone is not compliant with the device security policy.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Review the compliance failure for A jailbroken iPhone, enforce the policy through MDM, and block access until it is compliant."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Wireless throughput in the shipping office is poor even with full signal bars.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Check client load, channel utilization, and data rates on the APs serving the shipping office, and rebalance channels or add capacity."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: the monitoring dashboard is showing an expired certificate warning in the browser.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Generate a CSR for the monitoring dashboard, issue or renew the certificate, install it with the full chain, and verify."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "I need Power BI Desktop set up on the new laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Confirm the license and approval for Power BI Desktop, deploy it with the standard package, and verify it launches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Caller ID shows the wrong number for outbound calls from the sales team.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Review the calling line ID settings on the SIP trunk and the users' line configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Local build of the Rails project fails on my machine but works for teammates.",
+    "output": "Team: Software | Assigned to Sita Kumari: Compare the local toolchain and dependency versions for the Rails project with the team baseline, reinstall dependencies, and review the build error."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Xcode will not start on my laptop after the update.",
+    "output": "Team: Software | Assigned to Sita Kumari: Update Xcode, clear its caches and workspace settings, disable recently added plugins, and reinstall if it still fails."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Switch stack cable is loose and the stack keeps splitting.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Reseat or replace the stack cable and verify the stack ring status."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Third-party monitoring service cannot reach our public status endpoint through the firewall.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Review the inbound firewall policy for the endpoint and allow the vendor's source ranges."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Users on the 4th floor get an IP address but have no internet access.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Check the default gateway and DNS options in the 4th floor DHCP scope and verify the VLAN's routing."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Pre-commit hooks take five minutes to run on every commit.",
+    "output": "Team: Software | Assigned to Sita Kumari: Limit the hooks to changed files and move the slow checks to CI."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Switch port Gi1/0/22 in the warehouse IDF is err-disabled.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Inspect the error counters and cable on Gi1/0/22 in the warehouse IDF, replace the patch cable or transceiver, and clear and re-enable the port."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Fax machine cannot send through the new VoIP analog adapter.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Check the analog adapter's T.38 fax settings and SIP registration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Hi IT, Grammarly license needs to be assigned to the new content writers.",
+    "output": "Team: Software | Assigned to Gita Kumari: Assign the licenses in the Grammarly business admin console and send the invites."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: Wireless controller failover test is scheduled and needs to be coordinated.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Plan the controller failover window, verify AP high-availability settings, and notify users."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? IP address management spreadsheet is out of date and we need a proper IPAM record.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Audit the subnets and DHCP scopes and update the IPAM records."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "New ticket - Cryptomining process detected on a development server.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Isolate the server, terminate the process, and investigate the initial access vector."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Expired root CA certificate on legacy devices is breaking trust for internal services.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Distribute the new root CA to the legacy devices and re-issue affected certificates."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The Jira Cloud and Confluence integration is not showing linked issues on pages.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the application link between Jira and Confluence and re-authorize it."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Vulnerability scan found default SNMP community strings on a switch.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Validate the finding (default SNMP community strings on a switch), assess its severity, coordinate the patch with the system owner, and track to a verified rescan."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: Employee's MFA keeps failing after switching from an iPhone to an Android phone.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Remove the old authenticator registration and enroll the new device."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route this ticket: Datadog is showing high latency on the API servers.",
+    "output": "Team: Software | Assigned to Rita Kumari: Investigate the Datadog alert (high latency on the API servers), correlate it with recent deployments and resource metrics, and remediate the underlying infrastructure issue."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please assign this issue: Files in Box Drive are stuck on 'syncing' and never finish.",
+    "output": "Team: Software | Assigned to Gita Kumari: Check the Box Drive sync errors and account sign-in, clear the client cache, and relink the account if needed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Need help installing the approved PDF editor on 10 marketing laptops.",
+    "output": "Team: Software | Assigned to Gita Kumari: Deploy the PDF editor package through the software center and confirm license activation."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Local MySQL in my Docker Compose dev stack will not accept connections from the app container.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the Compose service names, the database startup health check, and the connection string."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "AP AP-3F-12 is down and users nearby have no wireless coverage.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Check AP-3F-12 on the wireless controller, verify its PoE and uplink from the switch, and reboot or re-provision the AP."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? The MariaDB database in the reporting environment is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the MariaDB service status and logs in the reporting environment, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Outbound calls from the phone system fail with a fast busy tone.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Check the SIP trunk status, dial plan, and route patterns on the call manager."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: The switch in closet 5 has reached its port capacity and no free ports remain.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Audit unused ports, plan an additional switch or stack member, and cable the uplinks."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Security questionnaire from a large customer needs to be completed.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Gather the control evidence and complete the questionnaire responses."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Please add a firewall policy so our servers can reach the new CRM's IP range.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Validate the request and destination addresses for the new CRM's IP range, create a least-privilege firewall rule, and document the change."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Route to the partner's extranet subnet disappeared from the core routing table.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Check whether the static or BGP route was withdrawn and restore it."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "URGENT: Old Cat5 cabling in the annex building needs to be replaced with Cat6.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Scope the cable replacement, schedule the install, and test and label every new run."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Blue/green deployment switched traffic but the new version is returning errors.",
+    "output": "Team: Software | Assigned to Rita Kumari: Switch traffic back to the previous version and review the new version's logs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who should handle this issue: The SOC dashboard is showing impossible travel login for a finance user.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Triage the alert (impossible travel login for a finance user), validate it against logs, contain the affected account or host, and open an incident if confirmed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Wi-Fi is very slow in the 1st floor lobby.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Check client load, channel utilization, and data rates on the APs serving the 1st floor lobby, and rebalance channels or add capacity."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "the billing service deployment in Kubernetes is not becoming ready.",
+    "output": "Team: Software | Assigned to Rita Kumari: Describe the pods for the billing service, review the container logs and events, and fix the configuration, image, or resource requests."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The payroll specialist needs access to the payroll system.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Confirm manager approval for The payroll specialist, add the user to the access group for the payroll system, and record the approval in the ticket."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Unknown device appeared on the network and is scanning internal hosts.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Locate and isolate the device via NAC, and investigate its origin."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Intermittent Wi-Fi disconnections reported from the lobby.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Check AP coverage, channel interference, and client logs for the lobby on the wireless controller."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Developers need outbound firewall access to a container registry for the build servers.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Add the registry's hosts to the outbound policy for the build subnet and confirm with a test pull."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Compliance requires evidence that all databases use encryption at rest.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Audit the database encryption settings and compile the evidence report."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The regional director needs access to the executive reporting dashboard.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Confirm manager approval for The regional director, add the user to the access group for the executive reporting dashboard, and record the approval in the ticket."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Service desk needs permission to reset passwords for the sales department.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Delegate the password reset permission for the sales OU to the service desk group."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Word keeps showing 'not responding' when I open it.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Word, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: Conference table floor box network jacks are dead after the carpet replacement.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Inspect the floor box cabling for damage, re-terminate the jacks, and test each port."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "PyCharm cannot find the Python interpreter for the project.",
+    "output": "Team: Software | Assigned to Sita Kumari: Configure the project interpreter in PyCharm settings to the correct virtual environment."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "cargo build fails with a dependency resolution error.",
+    "output": "Team: Software | Assigned to Sita Kumari: Check the proxy and registry settings for cargo build, clear the local package cache, and resolve the version conflicts."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Celery workers are stuck and the task queue is backing up.",
+    "output": "Team: Software | Assigned to Rita Kumari: Restart the workers, check the broker connection, and review the long-running tasks."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Which team and employee will handle this? Attacker is attempting to brute force the public SSH jump host.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Block the source IPs, verify no successful logins, and tighten the access controls."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The IPSec tunnel to the Sydney branch dropped and has not come back.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Check the tunnel status to the Sydney branch on the firewall, verify IKE phase 1 and 2 parameters on both ends, and review the VPN logs."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "The MySQL database in staging is running out of disk space.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the MySQL service status and logs in staging, verify disk and memory, and restore the service or fail over."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Tableau Desktop crashes on startup on my laptop.",
+    "output": "Team: Software | Assigned to Gita Kumari: Update or repair Tableau Desktop, disable add-ins or plugins, clear its cache, and reinstall if the crash persists."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who is responsible for this one? Guest Wi-Fi is not working for visitors in the main lobby.",
+    "output": "Team: Network | Assigned to Shyam Bahadur: Check the guest SSID and captive portal for the APs covering the main lobby, and verify the guest DHCP pool is not exhausted."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Infrastructure change for the IAM roles for the batch jobs is blocked by a Terraform error.",
+    "output": "Team: Software | Assigned to Rita Kumari: Review the Terraform error for the IAM roles for the batch jobs, check the state and provider versions, and fix the resource configuration."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Temporary access to the HR system is needed for an external payroll auditor.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Create a time-limited guest account with read-only HR access and record the approval."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Who will take care of this ticket? Door access controller lost its network link after the PoE switch firmware upgrade.",
+    "output": "Team: Network | Assigned to Madan Bahadur: Check the PoE negotiation on the port after the upgrade and re-enable PoE for the controller."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Firewall is blocking the video conferencing media ports for the new meeting platform.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Add the vendor's documented UDP media port ranges to the outbound firewall policy."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "API key for the partner integration must be rotated before the contract renewal.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Generate the new key, coordinate the cutover with the partner, and revoke the old key."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Log aggregation pipeline is dropping application logs from the payment service.",
+    "output": "Team: Software | Assigned to Rita Kumari: Check the log shipper on the payment pods and the ingestion pipeline capacity."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Offboarding: a contract developer is leaving the company on Friday.",
+    "output": "Team: Security | Assigned to Krishna Prasad: Disable the account for a contract developer, revoke sessions and tokens, remove group memberships, and deactivate the badge."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Vulnerability scan found default credentials on a network-attached printer.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Confirm the finding, have the owner change the credentials, and rescan."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "SIEM alert: data transfer to an unsanctioned cloud app.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Triage the alert (data transfer to an unsanctioned cloud app), validate it against logs, contain the affected account or host, and open an incident if confirmed."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Vulnerability scan found an outdated PHP version on the intranet server.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Validate the finding (an outdated PHP version on the intranet server), assess its severity, coordinate the patch with the system owner, and track to a verified rescan."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Windows reports another device is using the IP assigned to the CAD workstation in engineering.",
+    "output": "Team: Network | Assigned to Hari Bahadur: Identify the conflicting MAC addresses from the switch and DHCP logs for the CAD workstation in engineering, fix the static or reservation overlap, and renew the lease."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Ticket from helpdesk: The pentest report lists a broken access control on the invoices API as a high-severity issue.",
+    "output": "Team: Security | Assigned to Govinda Prasad: Validate the finding (a broken access control on the invoices API), assign a severity and owner, and track the fix to a verified retest."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Prettier and ESLint are fighting over formatting in my editor.",
+    "output": "Team: Software | Assigned to Sita Kumari: Install the eslint-config-prettier package and align the formatter settings in the editor."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "VPN client shows 'connection failed' when connecting from my home office.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Check the VPN client logs for the attempt from my home office, verify the gateway is reachable on the required ports, and review the user's VPN profile."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "Assign to the right person: DNS record needs to be created for the customer support site.",
+    "output": "Team: Network | Assigned to Ram Bahadur: Create or correct the DNS record for the customer support site in the appropriate zone, verify replication, and flush caches."
+  },
+  {
+    "instruction": "Route this support issue to the correct team and employee, and suggest the first steps to resolve it.",
+    "input": "USB drive found in the parking lot was plugged into a reception computer.",
+    "output": "Team: Security | Assigned to Shiva Prasad: Isolate the computer, analyze the drive in a sandbox, and scan the host."
+  }
+]
